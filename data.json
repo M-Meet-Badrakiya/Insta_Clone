@@ -1,0 +1,126 @@
+{
+  "google": {
+    "name": "google",
+    "dp": "https://tse2.mm.bing.net/th/id/OIP.35LjTZBlBMufLC6UrhNx0gHaHa?pid=Api&P=0&h=180",
+    "followers": 120000,
+    "following": 50,
+    "post": 3,
+    "posts": [
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiD_aMVc4CfnsQmesl4O5HbK5sTxuZAG1h6g&s",
+        "likes": 5400,
+        "comments": 210
+      },
+      {
+        "image": "https://www.shutterstock.com/shutterstock/videos/1107903927/thumb/1.jpg?ip=x480",
+        "likes": 6200,
+        "comments": 340
+      },
+      {
+        "image": "https://t3.ftcdn.net/jpg/05/05/94/08/360_F_505940885_kmTN2GvEUmdY0uylOR5bAaEgTRVXUndm.jpg",
+        "likes": 4800,
+        "comments": 180
+      }
+    ]
+  },
+
+  "microsoft": {
+    "name": "microsoft",
+    "dp": "https://tse2.mm.bing.net/th/id/OIP.PWoq1WvDQDxc_MPv4Jt0GwHaHa?pid=Api&P=0&h=180",
+    "followers": 98000,
+    "following": 120,
+    "post": 3,
+    "posts": [
+      {
+        "image": "https://media.istockphoto.com/id/1408775753/photo/microsofts-headquarters-in-bucharest-romania.jpg?s=612x612&w=0&k=20&c=W5Dl9Cjq8ILKbarPHd3dc90tiX6MYas3jQg3SJlO9SU=",
+        "likes": 4100,
+        "comments": 160
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMukVNErimurNj23AUicnUYRTU10apI4xcCg&s",
+        "likes": 3900,
+        "comments": 145
+      },
+      {
+        "image": "https://media.gettyimages.com/id/496476627/photo/microsoft.jpg?s=612x612&w=gi&k=20&c=d9bXPfKhzxpoOyYWInQtVJf5BF4h9DFXp8fQ10ktS4w=",
+        "likes": 5200,
+        "comments": 230
+      }
+    ]
+  },
+
+  "apple": {
+    "name": "apple",
+    "dp": "https://www.freeiconspng.com/uploads/apple-icon-4.png",
+    "followers": 150000,
+    "following": 10,
+    "post": 3,
+    "posts": [
+      {
+        "image": "https://www.shutterstock.com/image-illustration/pune-india-february-19-2024-600nw-2427127545.jpg",
+        "likes": 8200,
+        "comments": 410
+      },
+      {
+        "image": "https://media.istockphoto.com/id/1028710354/photo/the-apple-headquarters-apple-park.jpg?s=612x612&w=0&k=20&c=xmMOqruEoeywmhaALPGEuNnpRlMJm9GuNlJuHFwkJ2w=",
+        "likes": 7600,
+        "comments": 380
+      },
+      {
+        "image": "https://media.istockphoto.com/id/1200606858/photo/apple-store-at-5th-ave-in-manhattan-nyc.jpg?s=612x612&w=0&k=20&c=dWbd3nWe_IkL7PeWedSNf7RNMOiaZWF6W7Z2wsqr2yI=",
+        "likes": 6900,
+        "comments": 295
+      }
+    ]
+  },
+
+  "amazon": {
+    "name": "amazon",
+    "dp": "https://tse3.mm.bing.net/th/id/OIP.yPCza_jhLg7hS64LKzJbwgHaHa?pid=Api&P=0&h=180",
+    "followers": 135000,
+    "following": 200,
+    "post": 3,
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&q=70&auto=format",
+        "likes": 5600,
+        "comments": 275
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=600&q=70&auto=format",
+        "likes": 6100,
+        "comments": 320
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1586880244406-556ebe35f282?w=600&q=70&auto=format",
+        "likes": 4700,
+        "comments": 190
+      }
+    ]
+  },
+
+  "flipkart": {
+    "name": "flipkart",
+    "dp": "https://static.vecteezy.com/system/resources/thumbnails/054/650/802/small/flipkart-logo-rounded-flipkart-logo-free-download-flipkart-logo-free-png.png",
+    "followers": 88000,
+    "following": 340,
+    "post": 3,
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1607082349566-1870e6c2d9c8?w=600&q=70&auto=format",
+        "likes": 3600,
+        "comments": 140
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1580910051074-7c61d3a73f8c?w=600&q=70&auto=format",
+        "likes": 4200,
+        "comments": 210
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1556740738-b6a63e27c4df?w=600&q=70&auto=format",
+        "likes": 3900,
+        "comments": 185
+      }
+    ]
+  }
+}
